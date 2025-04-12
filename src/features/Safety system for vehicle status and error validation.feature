@@ -1,0 +1,1 @@
+# Safety system for vehicle status and error validation
